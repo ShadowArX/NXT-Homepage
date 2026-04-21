@@ -4,7 +4,7 @@ Use this page in your web browser as homepage.
 DONT TRY TO COPY THIS!!
 Enjoy.
 LINK FOR VIEWING.
-https://itz-soumya.github.io/NXT-Homepage/
+https://shadow-arc01.github.io/NXT-Homepage/
 
 🔥 Make This Your Homepage.Now 🔥
 
@@ -15,7 +15,7 @@ Go to Settings → On Startup.
 
 Select Open a specific page or set of pages.
 
-Click Add a new page, then enter: https://itz-soumya.github.io/NXT-Homepage/
+Click Add a new page, then enter the link.
 
 
 🦊 Mozilla Firefox
@@ -25,7 +25,7 @@ Go to Settings → Home.
 
 Under Homepage and new windows, select Custom URLs.
 
-Paste: https://itz-soumya.github.io/NXT-Homepage/
+Paste the link
 
 
 🧭 Safari (Mac)
@@ -33,7 +33,7 @@ Go to Safari > Settings (or Preferences) from the menu bar.
 
 Under the General tab, find Homepage.
 
-Enter -https://itz-soumya.github.io/NXT-Homepage/
+Enter the link
 
 Optional: Set “New windows open with” and “New tabs open with” to Homepage.
 
@@ -45,7 +45,7 @@ Go to Settings → Start, home, and new tabs.
 
 Under When Edge starts, choose Open these pages → Add a new page.
 
-Type in: https://itz-soumya.github.io/NXT-Homepage/
+Type in the link.
 
 
 📱 Mobile Browsers

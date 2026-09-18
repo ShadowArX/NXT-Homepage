@@ -4,7 +4,7 @@ Use this page in your web browser as homepage.
 DONT TRY TO COPY THIS!!
 Enjoy.
 LINK FOR VIEWING.
-https://shadow-arc01.github.io/NXT-Homepage/
+https://shadowarx.github.io/NXT-Homepage/
 
 🔥 Make This Your Homepage.Now 🔥
 
